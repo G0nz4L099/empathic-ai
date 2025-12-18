@@ -11,7 +11,7 @@ Este proyecto integra Inteligencia Artificial Predictiva (BERT) con Inteligencia
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/empathic-ai.git
+   git clone  https://github.com/G0nz4L099/empathic-ai.git
    cd empathic-ai
 
 
