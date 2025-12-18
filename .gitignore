@@ -1,0 +1,15 @@
+# Ignorar secretos y configuraciones locales
+.streamlit/
+secrets.toml
+*.env
+
+# Ignorar el modelo pesado (se debe descargar aparte o entrenar)
+modelo_bert_final_92/
+*.zip
+*.safetensors
+pytorch_model.bin
+
+# Ignorar archivos de sistema y cache
+__pycache__/
+*.pyc
+.DS_Store
